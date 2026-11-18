@@ -1,13 +1,13 @@
-# Unidad 1 — Introducción a la Inteligencia Artificial
+# Unidad 1
 
-Materiales de Fundamentos de Inteligencia Artificial, organizados conforme al programa de septiembre de 2024.
+## Actividades
 
-- [Apuntes](Apuntes/): lógica proposicional y difusa, agentes, ética y modelos de lenguaje.
-- [Proyecto CrewAI](Proyectos/sn/): agentes de investigación y generación de reportes.
-- [Prácticas de LLM y entorno](Practicas/LLM_y_entorno/): comprobación de bibliotecas y petición a una API de lenguaje. El script requiere la variable de entorno `THEHIVE_API_KEY`.
-- [Reportes](Reportes/Historia_y_entorno_LaTeX/): historia de la IA, preparación del entorno, fuentes LaTeX y PDF.
-- [Bibliografía](Bibliografia/): fundamentos de IA.
+- [Configuración del entorno de desarrollo](01_Configuracion_entorno/): Reporte main.pdf/main.tex, capturas y comprobación de bibliotecas.
+- [Investigación y mapa mental](02_Investigacion_mapa_mental/): Infografía de referencia localizada; la entrega del mapa mental no se ha confirmado.
+- [BASH: limpieza de datos](03_BASH_limpieza_datos/): Scripts y CSV de PIB y bienestar; trasladados desde Unidad3.
+- [Lectura analítica: historia de la IA](04_Lectura_analitica_historia_IA/): Reporte latex.pdf/latex.tex, bibliografía e imágenes.
+- [Práctica CrewAI](05_Practica_CrewAI/): Proyecto sn y ejemplo de petición a un modelo de lenguaje.
+- [Talleres](06_Talleres/): Pendiente: no se identificaron entregas concretas.
 
-Los proyectos de búsqueda, grafos y algoritmos evolutivos se encuentran en [Unidad2](https://github.com/KirbyStone69/Unidad2). Iris y perceptrón corresponden a Unidad3 y se conservan en Documentos/Unidad3 en el equipo local.
+Los apuntes y libros adicionales permanecen en sus carpetas de apoyo. Los entornos instalados, archivos privados y cachés no se publican.
 
-Las claves de API, entornos instalados y archivos temporales quedan fuera del repositorio. Instala las dependencias siguiendo las instrucciones de cada proyecto.
