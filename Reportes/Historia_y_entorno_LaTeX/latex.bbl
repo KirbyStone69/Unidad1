@@ -1,0 +1,1311 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{abramson_descartes_2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d27f0beb108951a5e993d99684149564}{%
+           family={Abramson},
+           familyi={A\bibinitperiod},
+           given={Darren},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d27f0beb108951a5e993d99684149564}
+      \strng{fullhash}{d27f0beb108951a5e993d99684149564}
+      \strng{fullhashraw}{d27f0beb108951a5e993d99684149564}
+      \strng{bibnamehash}{d27f0beb108951a5e993d99684149564}
+      \strng{authorbibnamehash}{d27f0beb108951a5e993d99684149564}
+      \strng{authornamehash}{d27f0beb108951a5e993d99684149564}
+      \strng{authorfullhash}{d27f0beb108951a5e993d99684149564}
+      \strng{authorfullhashraw}{d27f0beb108951a5e993d99684149564}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00393681}
+      \field{journaltitle}{Studies in History and Philosophy of Science Part A}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Studies in History and Philosophy of Science Part A}
+      \field{title}{{Descartes}’ influence on {Turing}}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{42}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{544\bibrangedash 551}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.shpsa.2011.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039368111000689
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039368111000689
+      \endverb
+    \endentry
+    \entry{buchanan_very_2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c8f929dd0a8b95eaa41769ea38e6516}{%
+           family={Buchanan},
+           familyi={B\bibinitperiod},
+           given={Bruce\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{fullhash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{fullhashraw}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{bibnamehash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{authorbibnamehash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{authornamehash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{authorfullhash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{authorfullhashraw}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0738-4602}
+      \field{journaltitle}{{AI} Magazine}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{{AI} Magazine}
+      \field{shorttitle}{A (Very) Brief History of Artificial Intelligence}
+      \field{title}{A (Very) Brief History of Artificial Intelligence}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{26}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{53\bibrangedash 60}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1609/aimag.v26i4.1848
+      \endverb
+      \verb{urlraw}
+      \verb https://ojs.aaai.org/index.php/aimagazine/article/view/1848
+      \endverb
+      \verb{url}
+      \verb https://ojs.aaai.org/index.php/aimagazine/article/view/1848
+      \endverb
+    \endentry
+    \entry{coursera_history_ai}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06fcfccecaf32d751266ad51dbc9c38c}{%
+           family={{Coursera Staff}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{fullhash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{fullhashraw}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{bibnamehash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{authorbibnamehash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{authornamehash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{authorfullhash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{authorfullhashraw}{06fcfccecaf32d751266ad51dbc9c38c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Artículo en línea, Coursera}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{The History of {AI}: A Timeline of Artificial Intelligence}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.coursera.org/articles/history-of-ai
+      \endverb
+      \verb{url}
+      \verb https://www.coursera.org/articles/history-of-ai
+      \endverb
+    \endentry
+    \entry{grosz_what_2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8bcd2af1ab64bb2dfc79f6831b6ceadb}{%
+           family={Grosz},
+           familyi={G\bibinitperiod},
+           given={Barbara\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{fullhash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{fullhashraw}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{bibnamehash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{authorbibnamehash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{authornamehash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{authorfullhash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{authorfullhashraw}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In 1950, when Turing proposed to replace the question “Can machines think?” with the question “Are there imaginable digital computers which would do well in the imitation game?” computer science was not yet a field of study, Shannon's theory of information had just begun to change the way people thought about communication, and psychology was only starting to look beyond behaviorism. It is stunning that so many predictions in Turing's 1950 Mind paper were right. In the decades since that paper appeared, with its inspiring challenges, research in computer science, neuroscience, and the behavioral sciences has radically changed thinking about mental processes and communication, and the ways in which people use computers has evolved even more dramatically. Turing, were he writing now, might still replace “Can machines think?” with an operational challenge, but it is likely he would propose a very different test. This paper considers what that might be in light of Turing's paper and advances in the decades since it was written.}
+      \field{issn}{0738-4602, 2371-9621}
+      \field{journaltitle}{{AI} Magazine}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{{AI} Magazine}
+      \field{title}{What Question Would {Turing} Pose Today?}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{33}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{73\bibrangedash 81}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1609/aimag.v33i4.2441
+      \endverb
+      \verb{file}
+      \verb Texto completo:/home/kirby/Zotero/storage/D9CL7QQW/Grosz - 2012 - What Question Would Turing Pose Today.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1609/aimag.v33i4.2441
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1609/aimag.v33i4.2441
+      \endverb
+    \endentry
+    \entry{haenlein_brief_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=146c7381fa3e25c333d754ee6c0f683b}{%
+           family={Haenlein},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79d63985e11c74c107449cb5581be70c}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{fullhash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{fullhashraw}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{bibnamehash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{authorbibnamehash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{authornamehash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{authorfullhash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{authorfullhashraw}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This introduction to this special issue discusses artificial intelligence ({AI}), commonly defined as “a system’s ability to interpret external data correctly, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.” It summarizes seven articles published in this special issue that present a wide variety of perspectives on {AI}, authored by several of the world’s leading experts and specialists in {AI}. It concludes by offering a comprehensive outlook on the future of {AI}, drawing on micro-, meso-, and macro-perspectives.}
+      \field{issn}{0008-1256, 2162-8564}
+      \field{journaltitle}{California Management Review}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{California Management Review}
+      \field{shorttitle}{A Brief History of Artificial Intelligence}
+      \field{title}{A Brief History of Artificial Intelligence: On the Past, Present, and Future of Artificial Intelligence}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{61}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{5\bibrangedash 14}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/0008125619864925
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/0008125619864925
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/0008125619864925
+      \endverb
+    \endentry
+    \entry{survey_tinyml}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=548b9b0f340f1c5993b96c9be755be68}{%
+           family={Heydari},
+           familyi={H\bibinitperiod},
+           given={Soroush},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=454f4d384b3a98a3b17541d5985d1e18}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={Qusay\bibnamedelima H.},
+           giveni={Q\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{fullhash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{fullhashraw}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{bibnamehash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{authorbibnamehash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{authornamehash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{authorfullhash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{authorfullhashraw}{ecde6af4d6534f99372ceea0a551ebe9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Revisión académica en línea}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{Tiny {Machine} Learning and On-Device Inference: A Survey}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12115890/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12115890/
+      \endverb
+    \endentry
+    \entry{ibm_history_ai}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Artículo en línea, IBM}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{The History of Artificial Intelligence}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ibm.com/think/topics/history-of-artificial-intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/think/topics/history-of-artificial-intelligence
+      \endverb
+    \endentry
+    \entry{milkowski_turings_2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57cd6feb00f145db98356a9903549d06}{%
+           family={Miłkowski},
+           familyi={M\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57cd6feb00f145db98356a9903549d06}
+      \strng{fullhash}{57cd6feb00f145db98356a9903549d06}
+      \strng{fullhashraw}{57cd6feb00f145db98356a9903549d06}
+      \strng{bibnamehash}{57cd6feb00f145db98356a9903549d06}
+      \strng{authorbibnamehash}{57cd6feb00f145db98356a9903549d06}
+      \strng{authornamehash}{57cd6feb00f145db98356a9903549d06}
+      \strng{authorfullhash}{57cd6feb00f145db98356a9903549d06}
+      \strng{authorfullhashraw}{57cd6feb00f145db98356a9903549d06}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Alan Turing’s influence on subsequent research in artificial intelligence is undeniable. His proposed test for intelligence remains influential. In this paper, I propose to analyze his conception of intelligence by relying on traditional close reading and language technology. The Turing test is interpreted as an instance of conceptual engineering that rejects the role of the previous linguistic usage, but appeals to intuition pumps instead. Even though many conceive his proposal as a prime case of operationalism, it is more plausibly viewed as a stepping stone toward a future theoretical construal of intelligence in mechanical terms. To complete this picture, his own conceptual network is analyzed through the lens of distributional semantics over the corpus of his written work. As it turns out, Turing’s conceptual engineering of the notion of intelligence is indeed quite similar to providing a precising definition with the aim of revising the usage of the concept. However, that is not its ultimate aim: Turing is after a rich theoretical understanding of thinking in mechanical, i.e., computational, terms.}
+      \field{day}{20}
+      \field{issn}{2409-9287}
+      \field{journaltitle}{Philosophies}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shortjournal}{Philosophies}
+      \field{title}{{Turing}’s Conceptual Engineering}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{7}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{69}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/philosophies7030069
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2409-9287/7/3/69
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2409-9287/7/3/69
+      \endverb
+    \endentry
+    \entry{natale_lovelace_2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e37bb2f4623e6f5de947fe99a26310d8}{%
+           family={Natale},
+           familyi={N\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=278ca507a8f734069d51c0718b0510eb}{%
+           family={Henrickson},
+           familyi={H\bibinitperiod},
+           given={Leah},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{fullhash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{fullhashraw}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{bibnamehash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{authorbibnamehash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{authornamehash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{authorfullhash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{authorfullhashraw}{1ef8440f66d9811b795cda83b830efbb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article proposes the notion of the ‘Lovelace Effect’ as an analytical tool to identify situations in which the behaviour of computing systems is perceived by users as original and creative. It contrasts the Lovelace Effect with the more commonly known ‘Lovelace objection’, which claims that computers cannot originate or create anything, but only do what their programmers instruct them to do. By analysing the case study of {AICAN} – an {AI} art-generating system – we argue for the need for approaches in computational creativity to shift focus from what computers are able to do in ontological terms to the perceptions of human users who enter into interactions with them. The case study illuminates how the Lovelace effect can be facilitated through technical but also through representational means, such as the situations and cultural contexts in which users are invited to interact with the {AI}.}
+      \field{issn}{1461-4448, 1461-7315}
+      \field{journaltitle}{New Media \& Society}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{New Media \& Society}
+      \field{shorttitle}{The Lovelace effect}
+      \field{title}{The {Lovelace} effect: Perceptions of creativity in machines}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{26}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1909\bibrangedash 1926}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1177/14614448221077278
+      \endverb
+      \verb{file}
+      \verb Versión aceptada:/home/kirby/Zotero/storage/MR4L3RLS/Natale y Henrickson - 2024 - The Lovelace effect Perceptions of creativity in machines.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/14614448221077278
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/14614448221077278
+      \endverb
+    \endentry
+    \entry{wikipedia_history_ai}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Enciclopedia en línea, Wikipedia}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{History of Artificial Intelligence}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+      \endverb
+    \endentry
+    \entry{tinyml_wikipedia}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Enciclopedia en línea, Wikipedia}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{Tiny{ML}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/TinyML
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/TinyML
+      \endverb
+    \endentry
+    \entry{wuppuluri_compression_2020}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9febabac9e75ef9a20064244ab10f733}{%
+           family={Zenil},
+           familyi={Z\bibinitperiod},
+           given={Hector},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{2}{}{%
+        {{hash=b8af408561de93ae4ac0efb4d61cdb0b}{%
+           family={Wuppuluri},
+           familyi={W\bibinitperiod},
+           given={Shyam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fc8359b4efaeb42db2f0134505b6a740}{%
+           family={Antonio\bibnamedelima Doria},
+           familyi={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{WORLD} {SCIENTIFIC}}%
+      }
+      \strng{namehash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{fullhash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{fullhashraw}{9febabac9e75ef9a20064244ab10f733}
+      \strng{bibnamehash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{authorbibnamehash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{authornamehash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{authorfullhash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{authorfullhashraw}{9febabac9e75ef9a20064244ab10f733}
+      \strng{bookauthorbibnamehash}{e7b375ad741d6f41c0cc27d057a5dd4c}
+      \strng{bookauthornamehash}{e7b375ad741d6f41c0cc27d057a5dd4c}
+      \strng{bookauthorfullhash}{e7b375ad741d6f41c0cc27d057a5dd4c}
+      \strng{bookauthorfullhashraw}{e7b375ad741d6f41c0cc27d057a5dd4c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Unravelling Complexity}
+      \field{isbn}{978-981-12-0006-9}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{title}{Compression is Comprehension and the Unreasonable Effectiveness of Digital Computation in the Natural World}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{201\bibrangedash 238}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1142/9789811200076_0011
+      \endverb
+      \verb{urlraw}
+      \verb https://www.worldscientific.com/doi/abs/10.1142/9789811200076_0011
+      \endverb
+      \verb{url}
+      \verb https://www.worldscientific.com/doi/abs/10.1142/9789811200076_0011
+      \endverb
+    \endentry
+    \entry{zhang_turing_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8d75ca59388bc164d73c8688e5130184}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Emma\bibnamedelima Yann},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd40b19dd3257b409d4a67c49669223a}{%
+           family={Cheok},
+           familyi={C\bibinitperiod},
+           given={Adrian\bibnamedelima David},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a011a02043654335bc5513c80f0bedd8}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Zhigeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=704989978999b2d3adaa185bdb8dba93}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d71d8751fa5d6f7b0dda09f9009d97b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d580ab1834b2fe4b51838cc0d579a08}
+      \strng{fullhash}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{fullhashraw}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{bibnamehash}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{authorbibnamehash}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{authornamehash}{3d580ab1834b2fe4b51838cc0d579a08}
+      \strng{authorfullhash}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{authorfullhashraw}{ce303090d265bb83ea1d920fe4d4247b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In recent years, generative transformers have become increasingly prevalent in the field of artificial intelligence, especially within the scope of natural language processing. This paper provides a comprehensive overview of these models, beginning with the foundational theories introduced by Alan Turing and extending to contemporary generative transformer architectures. The manuscript serves as a review, historical account, and tutorial, aiming to offer a thorough understanding of the models’ importance, underlying principles, and wide-ranging applications. The tutorial section includes a practical guide for constructing a basic generative transformer model. Additionally, the paper addresses the challenges, ethical implications, and future directions in the study of generative models.}
+      \field{day}{15}
+      \field{issn}{2413-4155}
+      \field{journaltitle}{Sci}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Sci}
+      \field{shorttitle}{From Turing to Transformers}
+      \field{title}{From {Turing} to {Transformers}: A Comprehensive Review and Tutorial on the Evolution and Applications of Generative {Transformer} Models}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{46}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/sci5040046
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2413-4155/5/4/46
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2413-4155/5/4/46
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{abramson_descartes_2011}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d27f0beb108951a5e993d99684149564}{%
+           family={Abramson},
+           familyi={A\bibinitperiod},
+           given={Darren},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d27f0beb108951a5e993d99684149564}
+      \strng{fullhash}{d27f0beb108951a5e993d99684149564}
+      \strng{fullhashraw}{d27f0beb108951a5e993d99684149564}
+      \strng{bibnamehash}{d27f0beb108951a5e993d99684149564}
+      \strng{authorbibnamehash}{d27f0beb108951a5e993d99684149564}
+      \strng{authornamehash}{d27f0beb108951a5e993d99684149564}
+      \strng{authorfullhash}{d27f0beb108951a5e993d99684149564}
+      \strng{authorfullhashraw}{d27f0beb108951a5e993d99684149564}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00393681}
+      \field{journaltitle}{Studies in History and Philosophy of Science Part A}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Studies in History and Philosophy of Science Part A}
+      \field{title}{{Descartes}’ influence on {Turing}}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{42}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{544\bibrangedash 551}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.shpsa.2011.09.004
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039368111000689
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0039368111000689
+      \endverb
+    \endentry
+    \entry{buchanan_very_2005}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c8f929dd0a8b95eaa41769ea38e6516}{%
+           family={Buchanan},
+           familyi={B\bibinitperiod},
+           given={Bruce\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{fullhash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{fullhashraw}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{bibnamehash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{authorbibnamehash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{authornamehash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{authorfullhash}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \strng{authorfullhashraw}{9c8f929dd0a8b95eaa41769ea38e6516}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0738-4602}
+      \field{journaltitle}{{AI} Magazine}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{{AI} Magazine}
+      \field{shorttitle}{A (Very) Brief History of Artificial Intelligence}
+      \field{title}{A (Very) Brief History of Artificial Intelligence}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{26}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{53\bibrangedash 60}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1609/aimag.v26i4.1848
+      \endverb
+      \verb{urlraw}
+      \verb https://ojs.aaai.org/index.php/aimagazine/article/view/1848
+      \endverb
+      \verb{url}
+      \verb https://ojs.aaai.org/index.php/aimagazine/article/view/1848
+      \endverb
+    \endentry
+    \entry{coursera_history_ai}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06fcfccecaf32d751266ad51dbc9c38c}{%
+           family={{Coursera Staff}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{fullhash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{fullhashraw}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{bibnamehash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{authorbibnamehash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{authornamehash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{authorfullhash}{06fcfccecaf32d751266ad51dbc9c38c}
+      \strng{authorfullhashraw}{06fcfccecaf32d751266ad51dbc9c38c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Artículo en línea, Coursera}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{The History of {AI}: A Timeline of Artificial Intelligence}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.coursera.org/articles/history-of-ai
+      \endverb
+      \verb{url}
+      \verb https://www.coursera.org/articles/history-of-ai
+      \endverb
+    \endentry
+    \entry{grosz_what_2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8bcd2af1ab64bb2dfc79f6831b6ceadb}{%
+           family={Grosz},
+           familyi={G\bibinitperiod},
+           given={Barbara\bibnamedelima J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{fullhash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{fullhashraw}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{bibnamehash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{authorbibnamehash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{authornamehash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{authorfullhash}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \strng{authorfullhashraw}{8bcd2af1ab64bb2dfc79f6831b6ceadb}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In 1950, when Turing proposed to replace the question “Can machines think?” with the question “Are there imaginable digital computers which would do well in the imitation game?” computer science was not yet a field of study, Shannon's theory of information had just begun to change the way people thought about communication, and psychology was only starting to look beyond behaviorism. It is stunning that so many predictions in Turing's 1950 Mind paper were right. In the decades since that paper appeared, with its inspiring challenges, research in computer science, neuroscience, and the behavioral sciences has radically changed thinking about mental processes and communication, and the ways in which people use computers has evolved even more dramatically. Turing, were he writing now, might still replace “Can machines think?” with an operational challenge, but it is likely he would propose a very different test. This paper considers what that might be in light of Turing's paper and advances in the decades since it was written.}
+      \field{issn}{0738-4602, 2371-9621}
+      \field{journaltitle}{{AI} Magazine}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{{AI} Magazine}
+      \field{title}{What Question Would {Turing} Pose Today?}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{33}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{73\bibrangedash 81}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1609/aimag.v33i4.2441
+      \endverb
+      \verb{file}
+      \verb Texto completo:/home/kirby/Zotero/storage/D9CL7QQW/Grosz - 2012 - What Question Would Turing Pose Today.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/10.1609/aimag.v33i4.2441
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/10.1609/aimag.v33i4.2441
+      \endverb
+    \endentry
+    \entry{haenlein_brief_2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=146c7381fa3e25c333d754ee6c0f683b}{%
+           family={Haenlein},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79d63985e11c74c107449cb5581be70c}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{fullhash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{fullhashraw}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{bibnamehash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{authorbibnamehash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{authornamehash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{authorfullhash}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \strng{authorfullhashraw}{a67f043ea812ccb0ad92b8dca34fbeb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This introduction to this special issue discusses artificial intelligence ({AI}), commonly defined as “a system’s ability to interpret external data correctly, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.” It summarizes seven articles published in this special issue that present a wide variety of perspectives on {AI}, authored by several of the world’s leading experts and specialists in {AI}. It concludes by offering a comprehensive outlook on the future of {AI}, drawing on micro-, meso-, and macro-perspectives.}
+      \field{issn}{0008-1256, 2162-8564}
+      \field{journaltitle}{California Management Review}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{California Management Review}
+      \field{shorttitle}{A Brief History of Artificial Intelligence}
+      \field{title}{A Brief History of Artificial Intelligence: On the Past, Present, and Future of Artificial Intelligence}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{61}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{5\bibrangedash 14}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1177/0008125619864925
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/0008125619864925
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/0008125619864925
+      \endverb
+    \endentry
+    \entry{survey_tinyml}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=548b9b0f340f1c5993b96c9be755be68}{%
+           family={Heydari},
+           familyi={H\bibinitperiod},
+           given={Soroush},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=454f4d384b3a98a3b17541d5985d1e18}{%
+           family={Mahmoud},
+           familyi={M\bibinitperiod},
+           given={Qusay\bibnamedelima H.},
+           giveni={Q\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{fullhash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{fullhashraw}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{bibnamehash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{authorbibnamehash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{authornamehash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{authorfullhash}{ecde6af4d6534f99372ceea0a551ebe9}
+      \strng{authorfullhashraw}{ecde6af4d6534f99372ceea0a551ebe9}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Revisión académica en línea}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{Tiny {Machine} Learning and On-Device Inference: A Survey}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12115890/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12115890/
+      \endverb
+    \endentry
+    \entry{ibm_history_ai}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={{IBM}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhashraw}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Artículo en línea, IBM}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{The History of Artificial Intelligence}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ibm.com/think/topics/history-of-artificial-intelligence
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/think/topics/history-of-artificial-intelligence
+      \endverb
+    \endentry
+    \entry{milkowski_turings_2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=57cd6feb00f145db98356a9903549d06}{%
+           family={Miłkowski},
+           familyi={M\bibinitperiod},
+           given={Marcin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57cd6feb00f145db98356a9903549d06}
+      \strng{fullhash}{57cd6feb00f145db98356a9903549d06}
+      \strng{fullhashraw}{57cd6feb00f145db98356a9903549d06}
+      \strng{bibnamehash}{57cd6feb00f145db98356a9903549d06}
+      \strng{authorbibnamehash}{57cd6feb00f145db98356a9903549d06}
+      \strng{authornamehash}{57cd6feb00f145db98356a9903549d06}
+      \strng{authorfullhash}{57cd6feb00f145db98356a9903549d06}
+      \strng{authorfullhashraw}{57cd6feb00f145db98356a9903549d06}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Alan Turing’s influence on subsequent research in artificial intelligence is undeniable. His proposed test for intelligence remains influential. In this paper, I propose to analyze his conception of intelligence by relying on traditional close reading and language technology. The Turing test is interpreted as an instance of conceptual engineering that rejects the role of the previous linguistic usage, but appeals to intuition pumps instead. Even though many conceive his proposal as a prime case of operationalism, it is more plausibly viewed as a stepping stone toward a future theoretical construal of intelligence in mechanical terms. To complete this picture, his own conceptual network is analyzed through the lens of distributional semantics over the corpus of his written work. As it turns out, Turing’s conceptual engineering of the notion of intelligence is indeed quite similar to providing a precising definition with the aim of revising the usage of the concept. However, that is not its ultimate aim: Turing is after a rich theoretical understanding of thinking in mechanical, i.e., computational, terms.}
+      \field{day}{20}
+      \field{issn}{2409-9287}
+      \field{journaltitle}{Philosophies}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{number}{3}
+      \field{shortjournal}{Philosophies}
+      \field{title}{{Turing}’s Conceptual Engineering}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{7}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{69}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/philosophies7030069
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2409-9287/7/3/69
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2409-9287/7/3/69
+      \endverb
+    \endentry
+    \entry{natale_lovelace_2024}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e37bb2f4623e6f5de947fe99a26310d8}{%
+           family={Natale},
+           familyi={N\bibinitperiod},
+           given={Simone},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=278ca507a8f734069d51c0718b0510eb}{%
+           family={Henrickson},
+           familyi={H\bibinitperiod},
+           given={Leah},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{fullhash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{fullhashraw}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{bibnamehash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{authorbibnamehash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{authornamehash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{authorfullhash}{1ef8440f66d9811b795cda83b830efbb}
+      \strng{authorfullhashraw}{1ef8440f66d9811b795cda83b830efbb}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This article proposes the notion of the ‘Lovelace Effect’ as an analytical tool to identify situations in which the behaviour of computing systems is perceived by users as original and creative. It contrasts the Lovelace Effect with the more commonly known ‘Lovelace objection’, which claims that computers cannot originate or create anything, but only do what their programmers instruct them to do. By analysing the case study of {AICAN} – an {AI} art-generating system – we argue for the need for approaches in computational creativity to shift focus from what computers are able to do in ontological terms to the perceptions of human users who enter into interactions with them. The case study illuminates how the Lovelace effect can be facilitated through technical but also through representational means, such as the situations and cultural contexts in which users are invited to interact with the {AI}.}
+      \field{issn}{1461-4448, 1461-7315}
+      \field{journaltitle}{New Media \& Society}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shortjournal}{New Media \& Society}
+      \field{shorttitle}{The Lovelace effect}
+      \field{title}{The {Lovelace} effect: Perceptions of creativity in machines}
+      \field{urlday}{1}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{26}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1909\bibrangedash 1926}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1177/14614448221077278
+      \endverb
+      \verb{file}
+      \verb Versión aceptada:/home/kirby/Zotero/storage/MR4L3RLS/Natale y Henrickson - 2024 - The Lovelace effect Perceptions of creativity in machines.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/14614448221077278
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/14614448221077278
+      \endverb
+    \endentry
+    \entry{wikipedia_history_ai}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Enciclopedia en línea, Wikipedia}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{History of Artificial Intelligence}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/History_of_artificial_intelligence
+      \endverb
+    \endentry
+    \entry{tinyml_wikipedia}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhashraw}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Enciclopedia en línea, Wikipedia}
+      \field{note}{Consultado por internet durante la elaboración de este reporte}
+      \field{title}{Tiny{ML}}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/TinyML
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/TinyML
+      \endverb
+    \endentry
+    \entry{wuppuluri_compression_2020}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9febabac9e75ef9a20064244ab10f733}{%
+           family={Zenil},
+           familyi={Z\bibinitperiod},
+           given={Hector},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{bookauthor}{2}{}{%
+        {{hash=b8af408561de93ae4ac0efb4d61cdb0b}{%
+           family={Wuppuluri},
+           familyi={W\bibinitperiod},
+           given={Shyam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fc8359b4efaeb42db2f0134505b6a740}{%
+           family={Antonio\bibnamedelima Doria},
+           familyi={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{WORLD} {SCIENTIFIC}}%
+      }
+      \strng{namehash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{fullhash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{fullhashraw}{9febabac9e75ef9a20064244ab10f733}
+      \strng{bibnamehash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{authorbibnamehash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{authornamehash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{authorfullhash}{9febabac9e75ef9a20064244ab10f733}
+      \strng{authorfullhashraw}{9febabac9e75ef9a20064244ab10f733}
+      \strng{bookauthorbibnamehash}{e7b375ad741d6f41c0cc27d057a5dd4c}
+      \strng{bookauthornamehash}{e7b375ad741d6f41c0cc27d057a5dd4c}
+      \strng{bookauthorfullhash}{e7b375ad741d6f41c0cc27d057a5dd4c}
+      \strng{bookauthorfullhashraw}{e7b375ad741d6f41c0cc27d057a5dd4c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Unravelling Complexity}
+      \field{isbn}{978-981-12-0006-9}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{title}{Compression is Comprehension and the Unreasonable Effectiveness of Digital Computation in the Natural World}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{201\bibrangedash 238}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1142/9789811200076_0011
+      \endverb
+      \verb{urlraw}
+      \verb https://www.worldscientific.com/doi/abs/10.1142/9789811200076_0011
+      \endverb
+      \verb{url}
+      \verb https://www.worldscientific.com/doi/abs/10.1142/9789811200076_0011
+      \endverb
+    \endentry
+    \entry{zhang_turing_2023}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=8d75ca59388bc164d73c8688e5130184}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Emma\bibnamedelima Yann},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd40b19dd3257b409d4a67c49669223a}{%
+           family={Cheok},
+           familyi={C\bibinitperiod},
+           given={Adrian\bibnamedelima David},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a011a02043654335bc5513c80f0bedd8}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Zhigeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=704989978999b2d3adaa185bdb8dba93}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d71d8751fa5d6f7b0dda09f9009d97b}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d580ab1834b2fe4b51838cc0d579a08}
+      \strng{fullhash}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{fullhashraw}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{bibnamehash}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{authorbibnamehash}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{authornamehash}{3d580ab1834b2fe4b51838cc0d579a08}
+      \strng{authorfullhash}{ce303090d265bb83ea1d920fe4d4247b}
+      \strng{authorfullhashraw}{ce303090d265bb83ea1d920fe4d4247b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In recent years, generative transformers have become increasingly prevalent in the field of artificial intelligence, especially within the scope of natural language processing. This paper provides a comprehensive overview of these models, beginning with the foundational theories introduced by Alan Turing and extending to contemporary generative transformer architectures. The manuscript serves as a review, historical account, and tutorial, aiming to offer a thorough understanding of the models’ importance, underlying principles, and wide-ranging applications. The tutorial section includes a practical guide for constructing a basic generative transformer model. Additionally, the paper addresses the challenges, ethical implications, and future directions in the study of generative models.}
+      \field{day}{15}
+      \field{issn}{2413-4155}
+      \field{journaltitle}{Sci}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{4}
+      \field{shortjournal}{Sci}
+      \field{shorttitle}{From Turing to Transformers}
+      \field{title}{From {Turing} to {Transformers}: A Comprehensive Review and Tutorial on the Evolution and Applications of Generative {Transformer} Models}
+      \field{urlday}{2}
+      \field{urlmonth}{9}
+      \field{urlyear}{2026}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{46}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/sci5040046
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2413-4155/5/4/46
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2413-4155/5/4/46
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
